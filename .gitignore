@@ -3,6 +3,7 @@ build/
 *.exe
 *.o
 *.out
+*.filters
 
 .vs/
 .idea/

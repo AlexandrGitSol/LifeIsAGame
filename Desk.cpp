@@ -17,10 +17,6 @@ void Desk::draw_desk(RenderWindow& window) {
 	}
 }
 
-void Desk::calc_thread(int block) {
-	
-}
-
 void Desk::calculating() {
 	Desk ans;
 	for (int i = 1; i < SOD - 1; i++) {

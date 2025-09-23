@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\Admin\Desktop\Visual Studio 2022\Проекты\LifeIsAGame\main.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Admin\Desktop\Visual Studio 2022\Проекты\LifeIsAGame\main.cpp(12,11): warning C4101: mouse: неиспользованная локальная переменная
-  LifeIsAGame.vcxproj -> C:\Users\Admin\Desktop\Visual Studio 2022\Проекты\LifeIsAGame\x64\Debug\LifeIsAGame.exe
-  "pwsh.exe" не является внутренней или внешней
-  командой, исполняемой программой или пакетным файлом.

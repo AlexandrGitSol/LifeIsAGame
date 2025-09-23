@@ -8,6 +8,8 @@
 #include <random>
 #include <ctime>
 #include <thread>
+#include <future>
+#include <mutex>
 using namespace sf;
 using namespace std;
 
@@ -27,7 +29,6 @@ public:
 	//void operator=(Desk& right);
 	void rand_oper();
 	vector<vector<Dot>>* get_desk();
-	void calc_thread(int block);
 };
 
 class Dot {

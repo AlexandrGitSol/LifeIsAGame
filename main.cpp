@@ -45,9 +45,8 @@ int main()
             window.clear(sf::Color(255, 255, 255));
             desk.calculating();
             desk.draw_desk(window);
+            window.display();
         }
-
-        window.display();
     }
 
     return 0;

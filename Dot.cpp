@@ -1,6 +1,6 @@
 #include "header.h"
 
-float rb = 10; //sosx кратно rb
+float rb = 20; //sosx кратно rb
 
 Dot::Dot() {
 	body.setPointCount(16);

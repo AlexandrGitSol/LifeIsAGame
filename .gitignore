@@ -4,6 +4,7 @@ build/
 *.o
 *.out
 *.filters
+.vscode/
 
 .vs/
 .idea/
